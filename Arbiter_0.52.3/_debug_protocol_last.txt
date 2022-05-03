@@ -1,0 +1,15 @@
+14:08:14:490 preferences saved
+14:07:11:398 ---
+14:07:11:397 who of them got the skills to test me?
+14:07:11:396 ---
+14:07:11:395 warp field stabilized. opening gate to the minesweeper world
+14:07:11:394 encrypt_engine test ok
+14:07:11:393 encrypt_engine testing ...
+14:07:11:393 ---
+14:07:11:392 language  | 00000804
+14:07:11:384 timezone  | 中国标准时间 (GMT +8:00)
+14:07:11:383 platform  | Windows NT 6.2 build 9200, 
+14:07:11:382 memory    | 2047,0 of 2047,0 MB RAM free
+14:07:11:382 cpu speed | run the command get_cpu_speed
+14:07:11:381 date      | Tue, 03.05.2022, process 0x000A0698 launched
+14:07:11:365 path      | D:\DESKTOP\SCRIPTS\GOMINE\ARBITER_0.52.3\

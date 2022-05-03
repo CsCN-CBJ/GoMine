@@ -1,0 +1,22 @@
+22:19:13:941 hack found. abnormal program termination
+22:19:13:915 weird time
+21:55:42:748 weird time
+20:14:01:473 memory_usage: [20:14] 2147483647 ==> used 0
+20:14:01:471 intermediate mode selected
+20:13:59:224 memory_usage: [20:13] 2147483647 ==> used 0
+20:13:59:222 beginner mode selected
+20:09:33:225 intermediate mode selected
+20:09:29:800 ---
+20:09:29:799 who of them got the skills to test me?
+20:09:29:798 ---
+20:09:29:796 warp field stabilized. opening gate to the minesweeper world
+20:09:29:795 encrypt_engine test ok
+20:09:29:794 encrypt_engine testing ...
+20:09:29:793 ---
+20:09:29:791 language  | 00000804
+20:09:29:782 timezone  | 中国标准时间 (GMT +8:00)
+20:09:29:781 platform  | Windows NT 6.2 build 9200, 
+20:09:29:780 memory    | 2047,0 of 2047,0 MB RAM free
+20:09:29:780 cpu speed | run the command get_cpu_speed
+20:09:29:779 date      | Sun, 06.03.2022, process 0x000711F2 launched
+20:09:29:766 path      | D:\DESKTOP\FILERECV\ARBITER_0.52.3\
